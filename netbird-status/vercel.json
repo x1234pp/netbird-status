@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/:peer", "destination": "/api/status?peer=:peer" }
-  ]
-}
